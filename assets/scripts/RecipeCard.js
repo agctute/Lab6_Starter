@@ -134,6 +134,5 @@ class RecipeCard extends HTMLElement {
     ${data["ingredients"]}
   </p>
     ` }
-    
 }
 customElements.define("recipe-card", RecipeCard);
